@@ -16,7 +16,7 @@ steps:
   args:
   - run
   - --filename=K8s/
-  - --location=us-west1-b
+  - --location=us-central1
   - --cluster=intel-img-classifier
 serviceAccount: 'projects/$PROJECT_ID/serviceAccounts/511859999489-compute@developer.gserviceaccount.com'
 options:
