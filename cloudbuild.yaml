@@ -18,5 +18,5 @@ steps:
   - --filename=K8s/
   - --location=us-west1-b
   - --cluster=intel-img-classifier
-  options:
+- options:
   logging: CLOUD_LOGGING_ONLY
